@@ -1,0 +1,1 @@
+require 'listjs/rails'
