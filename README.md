@@ -24,6 +24,20 @@ Make sure List.js is preset in `app/assets/javascripts/application.js`
 ...
 ```
 
+If you require any plugins you may add them to `application.js` also
+
+```
+...
+//= require list
+//= require list.pagination
+//= require list.fuzzysearch
+...
+```
+
+## Usage
+
+Please refer to the [List.js Documentation](http://listjs.com) for further implementation instructions.
+
 ## Contributing
 
 Feel free to open an issue ticket if you find something that could be improved.
