@@ -478,7 +478,7 @@ var typeOf = require('type')
  * Note: This implementation doesn't consider elements that are also
  *
  *
-  
+
   collections, such as `<form>` and `<select>`, to be array-like.
 
   @method test
